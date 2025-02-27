@@ -1,7 +1,7 @@
 Ferramentas computacionais
 ===================
 
-Este texto utiliza a linguagem de programação Python 3, juntamente com um conjunto padrão de ferramentas numéricas e de visualização de dados que são amplamente utilizados em aplicações comerciais, experimentos científicos e projetos de código aberto. Python recrutou entusiastas de muitas profissões que usam dados para tirar conclusões. Ao aprender a linguagem Python, você se juntará a uma comunidade de desenvolvedores de software e cientistas de dados com milhões de pessoas.
+Este texto utiliza a linguagem de programação Python 3, juntamente com um conjunto padrão de ferramentas numéricas e de visualização de dados que são amplamente utilizados em aplicações comerciais, experimentos científicos e projetos de código aberto. Python recrutou entusiastas de muitas profissões que usam dados para tirar conclusões. Ao aprender a linguagem Python, você se juntará a uma comunidade de milhões de desenvolvedores de software e cientistas de dados.
 
 **Começando.** A maneira mais fácil e recomendada de começar a escrever programas em Python é fazer login no site que acompanha este texto,
 [datahub.berkeley.edu](https://datahub.berkeley.edu).  Se você possui um endereço de e-mail @berkeley.edu
@@ -13,4 +13,4 @@ que reúne o interpretador da linguagem Python 3, as bibliotecas IPython e o amb
 
    [download]: http://continuum.io/downloads
 
-Este texto inclui uma introdução completa a todas essas ferramentas computacionais. Você aprenderá a escrever programas, gerar imagens a partir de dados e trabalhar com conjuntos de dados do mundo real publicados online.
+Este texto inclui uma introdução completa a todas essas ferramentas computacionais. Você aprenderá a escrever programas, gerar imagens a partir de dados e trabalhar com conjuntos de dados do mundo real que são publicados online.
