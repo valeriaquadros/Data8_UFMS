@@ -10,7 +10,7 @@ Snow notou que não havia diferença sistemática entre as pessoas que eram forn
 
 A única diferença estava no abastecimento de água, "um grupo sendo abastecido com água contendo o esgoto de Londres, e entre ele, o que poderia ter vindo dos pacientes de cólera, o outro grupo tendo água completamente livre de impurezas."
 
-Confiantes de que seriam capazes de chegar a uma conclusão clara, Snow resumiu seus dados na tabela abaixo.
+Confiante de que seria capaz de chegar a uma conclusão clara, Snow resumiu seus dados na tabela abaixo.
 
 | Área de Abastecimento | Número de Casas | Mortes por cólera | Mortes por 10.000 casas |
 |-----------------------|------------------|-------------------|--------------------------|
